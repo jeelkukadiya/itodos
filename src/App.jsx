@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef } from 'react'
-import Navbar from './components/navbar'
+import Navbar from './components/NavBar'
 import {v4 as uuidv4 } from 'uuid';
 import { FaEdit } from 'react-icons/fa';
 import { AiFillDelete } from 'react-icons/ai';
